@@ -37,7 +37,7 @@ Print(label)
 
 3) Numbers
 We’ll encounter many other kinds of values in Python, too. Like numbers, which have no double quotes around them. Example:
-my_smartphone = 11
+my_smartphone = 8
 
 Numbers make it easier to keep track of numeric data. Like here, my_smartphone stores the number 11 ,example:
 my_smartphone = 11
