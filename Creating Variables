@@ -23,7 +23,7 @@ hotel = "Dariza"
 
 When we store a value in a variable, it's like putting stuff inside a box.
 The values we've been storing, like "Riza" are strings. Strings are words in double quotes.
-Strings can contain all sorts of letters and symbols, including spaces, like " Riza Rumayanti Dewi"
+Strings can contain all sorts of letters and symbols, including spaces, like "Riza Rumayanti Dewi"
 
 
 3)Console
