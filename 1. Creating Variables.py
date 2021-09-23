@@ -41,6 +41,7 @@ print(“Salut!”)
 
 #we can use the print() instruction as often as we want. The computer displays every value on a line in the console. Example:
 print(“дорогая Риза”)
+print("Bonjour")
 
 #we can use print() to display variables. Example:
 greeting = “Hai”
